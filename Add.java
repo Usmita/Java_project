@@ -1,4 +1,4 @@
-package java_project;
+package Java_project;
 
 import java.util.*;
 class Add{
@@ -11,6 +11,7 @@ class Add{
         int result = add(x, y);
 
         System.out.println("result of addition = " + result);
+        System.out.println("New line here");
 
     }
 
