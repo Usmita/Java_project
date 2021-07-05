@@ -1,4 +1,4 @@
-package java_project;
+package Java_project;
 
 import java.util.*;
 class Difference{
@@ -11,6 +11,7 @@ class Difference{
         int result = difference(x, y);
 
         System.out.println("Difference = " + result);
+        System.out.println("New line here");
 
     }
 
